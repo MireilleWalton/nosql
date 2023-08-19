@@ -1,5 +1,18 @@
-# nosql
+# NoSQL
 Module 12 Challenge
+
+MONU-VIRT-DATA-PT-05-2023-U-LOLC-MTTH > Assignments > Module 2
+
+Student:  Mireille Walton 
+Email: mmj649@gmail.com
+
+##Project files##
+-  MWalton_NoSQL_setup_starter.ipynb
+-  MWalton_NoSQL_analysis_starter.ipynb
+-  Resources > establishments.json
+
+
+References
 
 ##References##
 
