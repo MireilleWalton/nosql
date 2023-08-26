@@ -4,17 +4,19 @@ Module 12 Challenge
 MONU-VIRT-DATA-PT-05-2023-U-LOLC-MTTH > Assignments > Module 2
 
 Student:  Mireille Walton 
+
 Email: mmj649@gmail.com
 
-##Project files##
--  MWalton_NoSQL_setup_starter.ipynb
--  MWalton_NoSQL_analysis_starter.ipynb
--  Resources > establishments.json
+**Project files**
+-  MWalton_NoSQL_setup.ipynb
+-  MWalton_NoSQL_analysis.ipynb
 
+**Resource files**
+-  NoSQL_setup_starter.ipynb
+-  NoSQL_analysis_starter.ipynb
+-  establishments.json
 
-References
-
-##References##
+**References**
 
 Ian, 30 Jan 2021, Databse.Guide, “MongoDB $toDecemial”, https://database.guide/mongodb-todecimal/#:~:text=From%20MongoDB%204.0%2C%20you%20can,corresponds%20to%20the%20date%20value, accessed 19 August 2023
 
