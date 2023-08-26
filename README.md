@@ -18,6 +18,10 @@ Email: mmj649@gmail.com
 
 **References**
 
+MongoDB, date unknown, “$project (aggregation)”, https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/, accessed 26 August 2023
+
+John Petrone, 24 April 2014, StackOverflow, “List all values of a certain field in mongodb”https://stackoverflow.com/questions/23273123/list-all-values-of-a-certain-field-in-mongodb , accessed 26 August 2023 
+
 Ian, 30 Jan 2021, Databse.Guide, “MongoDB $toDecemial”, https://database.guide/mongodb-todecimal/#:~:text=From%20MongoDB%204.0%2C%20you%20can,corresponds%20to%20the%20date%20value, accessed 19 August 2023
 
 MongoDB, date unknown, “$set”, https://www.mongodb.com/docs/manual/reference/operator/update/set/, accessed 18 August 2023
@@ -37,6 +41,5 @@ Slezadav, 4 September 2023, StackOverflow, “MongoDB empty string value vs null
 styvane, 18 December 2015, StackOverflow, “MongoDB query for excluding records based on some field value”, https://stackoverflow.com/questions/34356064/mongodb-query-for-excluding-records-based-on-some-field-value, accessed 19 August 2023
 
 Sam Bellerose, 5 December 2015, StackOverflow, “Mongo: Unknown group operator $toDouble”, https://stackoverflow.com/questions/34356064/mongodb-query-for-excluding-records-based-on-some-field-value, accessed 19 August 2023
-
 
 
